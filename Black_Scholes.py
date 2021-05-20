@@ -1,8 +1,7 @@
 import numpy as np
 import time
 
-####   DEDOMENA
-
+#### DATAS
 S0=97
 K=103
 T=1.5
