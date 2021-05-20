@@ -22,5 +22,5 @@ The monte carlo method can be used for the calculation according to the followin
 2. Calculate for each false-random Number the respective 𝑆𝑇(𝑖).
 3. Calculate all intermediate prices ℎ𝑇(𝑖)=max(𝑆𝑇(𝑖)−𝐾,0).
 4. Calculate the current value of the product based on the appraiser Monte Carlo.
-Α. Calculate the current value using the set as a set of initial values 𝑆𝑜=97, K=103, T=1.5 έτη, r=0.05, σ=0.2, using sequentially values Ν=10^3,10^5,10^7.
-Β. Calculate the time required by the program you built for each of its values Ν.
+5. Calculate the current value using the set as a set of initial values 𝑆𝑜=97, K=103, T=1.5 έτη, r=0.05, σ=0.2, using sequentially values Ν=10^3,10^5,10^7.
+6. Calculate the time required by the program you built for each of its values Ν.
